@@ -17,12 +17,12 @@ This MATLAB program implements parameter fitting for the **augmented Gutenberg-R
 First version completed in **June 2025**.
 
 ## 📂 Structure
-project/
-├── Functions/ % Core model functions
-├── Example/ % Example data
-├── Output/ % Output figures and .mat files
-├── main.m % Main script to run the model
-└── README.md % This file
+project/<br>
+├── Functions/ % Core model functions<br>
+├── Example/ % Example data<br>
+├── Output/ % Output figures and .mat files<br>
+├── main.m % Main script to run the model<br>
+└── README.md % This file<br>
 
 ## 📖 References
 
