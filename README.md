@@ -28,9 +28,10 @@ project/<br>
 
 If you use this code, please cite or refer to the following studies:
 
-1. Wang, X., Li, J.#, Feng, A., & Sornette, D.# (2025).  
-   *Estimating Magnitude Completeness in Earthquake Catalogs: A Comparative Study of Catalog-based Methods*.  
-   **Journal of Geophysical Research: Solid Earth** (major revision).
+1. Wang, X., <strong>Li, J.</strong><sup>#</sup>, Feng, A., Sornette, D. (2025).
+   *Estimating magnitude completeness in earthquake catalogs: A comparative study of catalog-based methods*.
+   Journal of Geophysical Research: Solid Earth, 130(9), e2025JB031441. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031441" target="_blank">[Link]</a> <a href="/contents/Papers/2025_JGR_Mc_MS.pdf" target="_blank">[PDF]</a> <a href="/contents/Papers/2025_JGR_Mc_SI.pdf" target="_blank">[SI]</a> <a href="https://github.com/lijiawei098/GR-gReLU" target="_blank">[Code]</a> 
+
 
 2. Wang, X., Li, J.#, & Sornette, D.# (2025).  
    *Unifying the Gutenberg-Richter Law with Probabilistic Catalog Completeness*. *(in preparation)*.
